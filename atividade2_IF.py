@@ -6,4 +6,4 @@ if nota >=7:
 else:
     if nota >=5:
         print("nao aprovado/recuperação")
-        print("nao aprovado/reprovado direto")
+    print("nao aprovado/reprovado direto")
