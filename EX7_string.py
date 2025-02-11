@@ -10,4 +10,4 @@ lucro = faturamento - custo
 print("O faturamento da loja foi de: %d" % faturamento)
 #uso do in , retorna true se o valor estiver contido na sequencia
 email = 'caiobattisti@gmail.com'
-print("@" in "battisti")
+print("@" in "battisti_gmail.com")
