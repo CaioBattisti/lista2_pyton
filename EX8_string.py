@@ -29,3 +29,7 @@ print(nome.isnumeric(),"\n")
 #substitue um caractere escolhido por outro.
 nome = "Caio"
 print(nome.replace('o','u'),"\n")
+
+#separa o texto string baseado em algum caractere indicado
+nome = "CaioLuizBattisti @ gmail.com"
+print(nome.split('@'),"\n") 
