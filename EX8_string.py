@@ -32,4 +32,4 @@ print(nome.replace('o','u'),"\n")
 
 #separa o texto string baseado em algum caractere indicado
 nome = "CaioLuizBattisti @ gmail.com"
-print(nome.split('@'),"\n") 
+print(nome.split('@'),"\n")
