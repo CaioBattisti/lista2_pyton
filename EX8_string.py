@@ -25,3 +25,7 @@ print(nome.isalpha(),"\n")
 #verifica se o texto e feito com numeros.
 nome = "123"
 print(nome.isnumeric(),"\n")
+
+#substitue um caractere escolhido por outro.
+nome = "Caio"
+print(nome.replace('o','u'),"\n")
