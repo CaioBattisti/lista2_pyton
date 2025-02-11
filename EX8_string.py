@@ -21,3 +21,7 @@ print(nome.find('@'),"\n")
 #verifica se o texto e todo feito com letras.
 nome = "Caio"
 print(nome.isalpha(),"\n")
+
+#verifica se o texto e feito com numeros.
+nome = "123"
+print(nome.isnumeric(),"\n")
