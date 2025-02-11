@@ -37,3 +37,12 @@ print(nome.split('@'),"\n")
 #coloca todas as letras iniciais em maiusculas.
 nome = "caio luiz battisti"
 print(nome.title(),"\n")
+
+#retira os caracteres indesejados, como por exemplo espaços que nao agregam valor.
+nome = " Caio Luiz Battisti "
+print(nome.strip(),"\n")
+
+#retorna true ou false para um teste de uma string se inicia com um texto especifico.
+nome = "Caio 2008"
+print(nome.startswith("ser"),"\n")
+print(nome.startswith("Ser"),"\n")
