@@ -7,3 +7,6 @@ for pessoa in pessoas_presentes:
         break
     else:
         print("so um print para mostrar que o for passou por essa pessoa: "+str(pessoa))
+        continue
+        print("so para mostrar que isso nao vai ser printado")
+        print("deu para entender ne?")
