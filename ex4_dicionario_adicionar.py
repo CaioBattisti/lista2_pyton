@@ -1,7 +1,7 @@
 #codigo para adicionar itens
 vendas_vendedoras = {}
 vendas_vendedoras["joao"] = 1500
-print("vendas_vendedores")
+print(vendas_vendedoras)
 
 vendas_vendedoras.update({"lira":50,"nathalie":100})
 print(vendas_vendedoras)
