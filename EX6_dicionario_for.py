@@ -6,3 +6,6 @@ for chave in vendas_tecnologia:
 #metodo .itens:
 for item in vendas_tecnologia.items():
     print(item)
+#metodo unpacking:
+for produto,vendas in vendas_tecnologia.items():
+    print("{}: {} de unidades.".format(produto,vendas))
