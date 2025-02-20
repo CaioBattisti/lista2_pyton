@@ -5,4 +5,4 @@ print("vendas_vendedoras")
 
 vendas_vendedoras.update({"lira":50,"nathalie":100})
 print(vendas_vendedoras)
-Print("fim do progrma")
+print("fim do progrma")
