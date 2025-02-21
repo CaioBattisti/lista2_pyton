@@ -1,3 +1,3 @@
-arquivo =open('E:/senai-sc - 2023/002 - aulas/015 - pyton/002 - aulas sergio - slide/lerTXT/Alunos.txt','r')
-linhas = arquivo.read.readlines()
+arquivo =open('C:/Users/caio_battisti/Documents/TXT/Alunos.txt','r')
+linhas = arquivo.readlines()
 print(linhas)
